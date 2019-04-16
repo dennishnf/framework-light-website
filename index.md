@@ -1,5 +1,5 @@
 
-## README ##
+## Home ##
 
 This is a simple python-based backend framework to create light websites.
 
